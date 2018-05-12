@@ -1,0 +1,41 @@
+_repo: The-Making-of-Mona_30402
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wallcousins, E.
+    birthdate: 1883
+    deathdate: 1976
+    gutenberg_agent_id: '4777'
+    url: http://www.gutenberg.org/2009/agents/4777
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Wallcousins
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Quiller-Couch, Mabel
+    deathdate: 1924
+    gutenberg_agent_id: '5320'
+    url: http://www.gutenberg.org/2009/agents/5320
+    wikipedia: http://en.wikipedia.org/wiki/Mabel_Quiller-Couch
+description: Mabel Quiller-Couch (1866-1924) was a Cornish writer. She was the the
+  sister of Sir Arthur Thomas Quiller-Couch, and her sister Lilian M. Quiller- Couch
+  was an author as well. She wrote Ancient and Holy Wells of Cornwall with her sister
+  in 1894. Other works include Martha's Trial (1895), One Good Seed Sown (1896), The
+  Recovery of Jane Vercoe. (1896), Some Western Folk (1897), Paul the Courageous (1901),
+  A Waif and a Welcome (1905), Zach and Derby (1906), The Carroll Girls (1906), A
+  Pair of Red Dolls (1907), Troublesome Ursula (1907), Kitty Trenire (1909), Some
+  Great Little People (1910), The.
+gutenberg_issued: '2009-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30402'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Conduct of life -- Fiction'
+title: The Making of Mona
+url: http://www.gutenberg.org/ebooks/30402
